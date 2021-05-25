@@ -4,4 +4,11 @@ created xmlmodel new branch from dev branch.
 
 create xml model containers in class.
 
-the branch xmlmodel will now be merged in the dev branch.
+the branch xmlmodel will now be merged in the dev branch(local).
+
+a new branch -jsonmodel is created based on the -dev branch.
+
+new classes in C# have been created. A decorator is added to the properties.
+This should enable the properties to be serialized.
+
+Functions to Deserialize the Json file to C# model classes is ready to be ported.
