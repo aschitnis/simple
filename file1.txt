@@ -4,4 +4,6 @@ created xmlmodel new branch from dev branch.
 
 create xml model containers in class.
 
-the branch xmlmodel will now be merged in the dev branch.
+the branch xmlmodel will now be merged in the dev branch(local).
+
+a new branch -jsonmodel is created based on the -dev branch.
