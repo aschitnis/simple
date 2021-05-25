@@ -3,3 +3,5 @@ created dev branch from main branch.
 created xmlmodel new branch from dev branch.
 
 create xml model containers in class.
+
+the branch xmlmodel will now be merged in the dev branch.
